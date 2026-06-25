@@ -1,0 +1,5 @@
+setup.py
+ntk_yarn.egg-info/PKG-INFO
+ntk_yarn.egg-info/SOURCES.txt
+ntk_yarn.egg-info/dependency_links.txt
+ntk_yarn.egg-info/top_level.txt
